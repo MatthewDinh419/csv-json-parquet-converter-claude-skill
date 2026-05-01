@@ -1,0 +1,18 @@
+# Claude Code local settings (machine-specific permissions)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Temp conversion outputs
+/tmp/converter_report.json
+
+# macOS
+.DS_Store

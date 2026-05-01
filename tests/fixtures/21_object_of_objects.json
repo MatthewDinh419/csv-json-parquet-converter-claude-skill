@@ -1,0 +1,14 @@
+{
+  "alice": {
+    "age": 30,
+    "city": "Boston"
+  },
+  "bob": {
+    "age": 25,
+    "city": "Chicago"
+  },
+  "carol": {
+    "age": 35,
+    "city": "LA"
+  }
+}

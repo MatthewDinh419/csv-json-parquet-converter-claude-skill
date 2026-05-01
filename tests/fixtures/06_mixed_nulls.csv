@@ -1,0 +1,6 @@
+id,name,score,status
+1,Alice,95,active
+2,Bob,N/A,inactive
+3,Carol,-,active
+4,Dave,,NULL
+5,Eve,88,n/a

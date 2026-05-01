@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "coords": {
+        "lat": 42.36,
+        "lon": -71.06
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "coords": {
+        "lat": 41.88,
+        "lon": -87.63
+      }
+    }
+  }
+]
